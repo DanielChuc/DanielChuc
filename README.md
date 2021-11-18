@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://th.bing.com/th/id/R.7ac12ca6cf7b83abd004d5f5dbff5f03?rik=7D8Aw98c6AhUZg&pid=ImgRaw&r=0" alt="hola" width="70">, I'm Daniel Chuc</h1>
-<h3 align="center"><img src="https://i.postimg.cc/fy0dmR87/kotori.jpg" alt="banner" width="100%" height="100%"></h3>
+<h3 align="center"><img src="https://i.postimg.cc/ZKQpptTw/daniel.png" alt="banner" width="100%" height="100%"></h3>
 <h3 align="center">A passionate frontend developer from México.</h3>
 
 - 🔭 I’m currently working **on Projects for the school**
